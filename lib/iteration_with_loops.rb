@@ -6,4 +6,5 @@ count = 0
 new_array = []
 while count < src.length do
   new_array << src[count].min
+  count += 1
 end
